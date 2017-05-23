@@ -33,7 +33,7 @@ To check if Apache ANT is installed, run ``ant -version``
 	$ ant -version
 	Apache Ant(TM) version 1.9.7 compiled on April 24 2016
 	
-If Apache Ant is not installed, look for the binary file from `Apache <https://ant.apache.org/ >`_ to download the latest version.
+If Apache Ant is not installed, look for the binary file from `Apache <https://ant.apache.org>`_ to download the latest version.
 
 Get a copy of VOC
 -----------------
